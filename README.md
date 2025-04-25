@@ -5,7 +5,7 @@
 [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@sheabali)
 
 <h1 align="center">
-   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=F85D7F&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Md.+Shariful+Islam+✌️;" />
+   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=F85D7F&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+.+Sheab+Ali+✌️;" />
 </h1>
 
 <p align="center"> 
@@ -22,8 +22,8 @@
    </a>
    <a href="https://shariful-islam.vercel.app" target="blank">
       <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="shariful" />
-   </a>
    <a href="https://www.linkedin.com/in/sheabali" target="_blank">
+   </a>
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="shariful"/>
    </a>
    <a href="https://discord.com/channels/@md.sharifulislam_36103" target="_blank">
