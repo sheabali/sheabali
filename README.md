@@ -6,7 +6,7 @@
 - 🌱 I’m Interested to work with React.JS and Next.JS
 - 💬 Ask me about Technology & Finance
 - 📫 How to reach me: iamskpranto@gmail.com
-- ⚡ Fun fact: I [write tech blogs / love coffee ☕ / do competitive programming]
+- ⚡ Fun fact: I write tech blogs / love coffee ☕ / do competitive programming
 
 <a href="https://www.github.com/sheabali" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/sheabali?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -22,9 +22,7 @@ src="https://img.shields.io/github/followers/sheabali?logo=github&style=for-the-
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/640px-Typescript.svg.png" alt="TypeScript" width="40" height="40"/>
 </a>
- <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
- <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="40" height="40"/>
- </a>
+
  </p>
 
 <h3 align="left">Library | Framework | Tech & Tools:</h3>
