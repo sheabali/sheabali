@@ -5,13 +5,13 @@
 - 🔭 I’m currently working on MERN Projects
 - 🌱 I’m Interested to work with React.JS and Next.JS
 - 💬 Ask me about Technology & Finance
-- 📫 How to reach me: chat.mahdihasan@gmail.com
-- ⚡ Fun fact: I'm currently studying Computer Science
+- 📫 How to reach me: iamskpranto@gmail.com
+- ⚡ Fun fact: I [write tech blogs / love coffee ☕ / do competitive programming]
 
-<a href="https://www.github.com/maybemahdi" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/maybemahdi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.github.com/sheabali" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/sheabali?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-<p align="left"> <a href="https://www.linkedin.com/in/maybemahdi/" target="blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+<p align="left"> <a href="https://www.linkedin.com/in/sheabali/" target="blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 "></a></p>
 
 <h3 align="left">Languages:</h3>
@@ -63,12 +63,12 @@ src="https://img.shields.io/github/followers/maybemahdi?logo=github&style=for-th
 
 <h3>My GitHub Stats:</h3>
 
-<a href="http://www.github.com/maybemahdi"><img src="https://github-readme-stats.vercel.app/api?username=maybemahdi&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="maybemahdi's GitHub stats" /></a>
+<a href="http://www.github.com/sheabali"><img src="https://github-readme-stats.vercel.app/api?username=sheabali&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sheabali's GitHub stats" /></a>
 
 <h3>Contribution:</h3>
 
-<a href="http://www.github.com/maybemahdi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=maybemahdi&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/sheabali"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sheabali&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <h3>Top Languages:</h3>
 
-<a href="https://github.com/maybemahdi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maybemahdi&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/sheabali" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheabali&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
