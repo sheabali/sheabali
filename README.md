@@ -41,10 +41,6 @@ src="https://img.shields.io/github/followers/sheabali?logo=github&style=for-the-
 </a>
 <a href="https://www.prisma.io/docs" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co.com/Vw55PrD/img-icons8.png" alt="prisma" width="40" height="40"/>
 </a>
-<a href="https://www.postgresql.org/docs/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" alt="postgresql" width="40" height="40"/>
-</a>
-<a href="https://docs.docker.com/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Docker.svg" alt="docker" width="40" height="40"/>
-</a>
 <a href="https://redux.js.org/introduction/getting-started" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Redux.svg" alt="redux" width="40" height="40"/>
 </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
