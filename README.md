@@ -66,3 +66,15 @@ src="https://img.shields.io/github/followers/sheabali?logo=github&style=for-the-
 <h3>Top Languages:</h3>
 
 <a href="https://github.com/sheabali" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheabali&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=sheabali&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sheabali&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sheabali&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=sheabali&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
