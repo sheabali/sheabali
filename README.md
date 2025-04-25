@@ -1,8 +1,8 @@
 <a href="https://komarev.com/ghpvc/?username=shariful05">
-   <img align="right" src="https://komarev.com/ghpvc/?username=shariful10&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+   <img align="right" src="https://komarev.com/ghpvc/?username=sheabali&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@shariful10)
+[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@sheabali)
 
 <h1 align="center">
    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=F85D7F&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Md.+Shariful+Islam+✌️;" />
@@ -23,13 +23,13 @@
    <a href="https://shariful-islam.vercel.app" target="blank">
       <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="shariful" />
    </a>
-   <a href="https://www.linkedin.com/in/shariful10" target="_blank">
+   <a href="https://www.linkedin.com/in/sheabali" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="shariful"/>
    </a>
    <a href="https://discord.com/channels/@md.sharifulislam_36103" target="_blank">
       <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="shariful"/>
    </a>
-   <a href="https://dev.to/shariful10" target="_blank">
+   <a href="https://dev.to/sheabali" target="_blank">
       <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="shariful" />
    </a>
    <a href="https://twitter.com/shariful_10" target="_blank">
@@ -84,16 +84,16 @@
 
 <h1>Top Open Source -</h1>
 
-[![Evogym](https://github-readme-stats.vercel.app/api/pin/?username=shariful10&repo=EvoGym&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/shariful10/EvoGym)
-[![SMartYT-eCommerce](https://github-readme-stats.vercel.app/api/pin/?username=shariful10&repo=SMartYT-eCommerce&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/shariful10/SMartYT-eCommerce)
-[![MovieVerse](https://github-readme-stats.vercel.app/api/pin/?username=shariful10&repo=Movie-Verse&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/shariful10/Movie-Verse)
-[![MeetCast](https://github-readme-stats.vercel.app/api/pin/?username=shariful10&repo=MeetCast&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/shariful10/MeetCast)
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=shariful10&repo=Portfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/shariful10/Portfolio)
-[![Soul-Sync](https://github-readme-stats.vercel.app/api/pin/?username=shariful10&repo=Soul-Sync&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/shariful10/Soul-Sync)
+[![Evogym](https://github-readme-stats.vercel.app/api/pin/?username=sheabali&repo=EvoGym&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sheabali/EvoGym)
+[![SMartYT-eCommerce](https://github-readme-stats.vercel.app/api/pin/?username=sheabali&repo=SMartYT-eCommerce&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sheabali/SMartYT-eCommerce)
+[![MovieVerse](https://github-readme-stats.vercel.app/api/pin/?username=sheabali&repo=Movie-Verse&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sheabali/Movie-Verse)
+[![MeetCast](https://github-readme-stats.vercel.app/api/pin/?username=sheabali&repo=MeetCast&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sheabali/MeetCast)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=sheabali&repo=Portfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sheabali/Portfolio)
+[![Soul-Sync](https://github-readme-stats.vercel.app/api/pin/?username=sheabali&repo=Soul-Sync&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sheabali/Soul-Sync)
 
 <p align="left">
    <a 
-      href="https://github.com/shariful10?tab=repositories" 
+      href="https://github.com/sheabali?tab=repositories" 
       target="_blank">
          <img 
             alt="Shariful Repositories" 
@@ -112,9 +112,9 @@
 <br/>
 
 <p align="center">
-   <a href="https://github.com/shariful10">
+   <a href="https://github.com/sheabali">
       <img 
-         src="https://github-readme-streak-stats.herokuapp.com/?user=shariful10&theme=radical&border=7F3FBF&background=0D1117" 
+         src="https://github-readme-streak-stats.herokuapp.com/?user=sheabali&theme=radical&border=7F3FBF&background=0D1117" 
          alt="Shariful's GitHub streak" 
          width="70%"
       />
@@ -122,9 +122,9 @@
 </p>
 
 <p align="center">
-   <a href="https://github.com/shariful10">
+   <a href="https://github.com/sheabali">
       <img 
-         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shariful10&theme=radical" 
+         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sheabali&theme=radical" 
          alt="Sk Shariful Islam's GitHub Contribution" 
          width="100%" 
       />
@@ -135,7 +135,7 @@
    <a>
       <img 
          alt="Shariful's Github Stats" 
-         src="https://denvercoder1-github-readme-stats.vercel.app/api?username=shariful10&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"  
+         src="https://denvercoder1-github-readme-stats.vercel.app/api?username=sheabali&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"  
          height="220px" 
          width="49.7%" 
       />
@@ -143,15 +143,15 @@
    <a>
       <img 
          alt="Shariful's Top Languages" 
-         src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=shariful10&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" 
+         src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=sheabali&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" 
          height="192px" 
          width="49.8%" 
       />
    </a>
 </p>
 
-<a align="center" href="https://github.com/shariful10">
-   <img alt="Shariful's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=shariful10&custom_title=Md.%20Shariful%20Islam's%20GitHub%20Activity%20Graph&border_color=7F3FBF&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=7F3FBF&title_color=F85D7F&area=true" alt="Shariful's Activity Graph" />
+<a align="center" href="https://github.com/sheabali">
+   <img alt="Shariful's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sheabali&custom_title=Md.%20Shariful%20Islam's%20GitHub%20Activity%20Graph&border_color=7F3FBF&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=7F3FBF&title_color=F85D7F&area=true" alt="Shariful's Activity Graph" />
 </a>
 
 <br />
